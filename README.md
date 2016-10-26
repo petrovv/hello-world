@@ -1,2 +1,1 @@
-# hello-world
-Just another repository
+This effort should help exterimenting with documentation.
